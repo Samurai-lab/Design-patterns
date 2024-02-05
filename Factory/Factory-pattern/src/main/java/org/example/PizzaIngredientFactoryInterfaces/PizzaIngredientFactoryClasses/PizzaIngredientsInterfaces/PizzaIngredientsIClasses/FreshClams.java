@@ -1,0 +1,6 @@
+package org.example.PizzaIngredientFactoryInterfaces.PizzaIngredientFactoryClasses.PizzaIngredientsInterfaces.PizzaIngredientsIClasses;
+
+import org.example.PizzaIngredientFactoryInterfaces.PizzaIngredientFactoryClasses.PizzaIngredientsInterfaces.Clams;
+
+public class FreshClams implements Clams {
+}

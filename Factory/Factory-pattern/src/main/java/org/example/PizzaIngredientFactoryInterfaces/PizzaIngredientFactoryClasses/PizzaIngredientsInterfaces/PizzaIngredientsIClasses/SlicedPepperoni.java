@@ -1,0 +1,6 @@
+package org.example.PizzaIngredientFactoryInterfaces.PizzaIngredientFactoryClasses.PizzaIngredientsInterfaces.PizzaIngredientsIClasses;
+
+import org.example.PizzaIngredientFactoryInterfaces.PizzaIngredientFactoryClasses.PizzaIngredientsInterfaces.Pepperoni;
+
+public class SlicedPepperoni implements Pepperoni {
+}

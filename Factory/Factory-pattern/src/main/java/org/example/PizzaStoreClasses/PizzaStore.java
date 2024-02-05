@@ -1,4 +1,6 @@
-package org.example;
+package org.example.PizzaStoreClasses;
+
+import org.example.PizzaStyleClasses.Pizza;
 
 public abstract class PizzaStore {
     public Pizza orderPizza(String type) {
